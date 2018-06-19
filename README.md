@@ -1,2 +1,4 @@
-# icinga2
-collected stuff related to Icinga2
+# Icinga 2
+## Installation
+## Configuration
+## Other
